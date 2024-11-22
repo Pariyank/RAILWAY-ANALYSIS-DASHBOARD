@@ -1,4 +1,5 @@
-1. Ticket Sales Dashboard
+1. Ticket Sales Dashboard:
+   
 This section focuses on ticket sales performance, revenue generation, and operational statistics:
 
 Key Metrics:
@@ -11,7 +12,9 @@ Heatmap of ticket sales by weekday and hour, helping identify peak travel times.
 Most popular route: Manchester Piccadilly - Liverpool Lime Street.
 Comparative Analysis:
 Performance trends compared to the previous month (PM).
-2. Refunds and Feedback Dashboard
+
+2. Refunds and Feedback Dashboard:
+   
 This section tracks customer satisfaction and refund requests, offering insights into service quality and issue resolution:
 
 Key Metrics:
@@ -22,7 +25,9 @@ Detailed Analysis:
 Breakdown of refunds issued (full, partial) and declined.
 Resolution times by satisfaction score and complaint details.
 Most refunds requested on the Liverpool Lime Street - London Euston route.
-3. Fraud and Ticketless Travel Dashboard
+
+3. Fraud and Ticketless Travel Dashboard:
+   
 This section highlights ticketless travel instances and their impact on revenue:
 
 Key Metrics:
